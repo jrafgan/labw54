@@ -1,21 +1,12 @@
-
-.rank {
-    text-transform: uppercase;
-}
-
-.playingCards {
-    display: inline-block;
-}
-
-.Buttons {
-    margin: 10px;
-}
 .App {
-    text-align: center;
+  text-align: center;
+}
+
+button {
+    padding: 15px;
+    border: none;
 }
 
 p {
-    margin: 40px 0;
-    font-size: 20px;
-    color: red;
+  margin: 20px 0;
 }
